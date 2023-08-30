@@ -1,5 +1,7 @@
 # Phylogenetically Unique Primers in python (PUPpy)
-<img src="./images/PUPpy_logo_DigitalSchematic.png" width="500">
+<p align="center">
+  <img src="./images/PUPpy_logo_DigitalSchematic.png" width="500" />
+</p>
 
 
 PUPpy is a fully automated computational pipeline to design taxon-specific primers, which can be used to detect microbes and quantify substrain-level absolute microbial counts
